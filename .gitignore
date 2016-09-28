@@ -1,0 +1,5 @@
+.svn
+*.local
+__history
+*.exe
+*.dcu
